@@ -1,3 +1,4 @@
+#This is  a example of if else program  
 echo "Enter a number :"
 read number
 if [ $(expr $number % 2) -eq 0 ]
